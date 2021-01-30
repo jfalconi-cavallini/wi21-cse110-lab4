@@ -8,7 +8,7 @@
 8. [50,100,150] because we iterate through the [100,200,300] and apply a 50% discount to each value.
 9. Reference errore because i is out of scope.
 10. It is out of scope because we are creating the variable each time and it is no longer found when trying to log it.
-11. Error because we are attempting to reassing the value of finalPrice but it is const so we arent allowed to change its value.
+11. Error because we are attempting to reasigning the value of finalPrice but it is const so we arent allowed to change its value.
 12. The function wont return anything since we have an error where we try to reassing a const variable.
 13. 
     a. student.name
